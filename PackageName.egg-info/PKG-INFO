@@ -1,0 +1,21 @@
+Metadata-Version: 1.0
+Name: PackageName
+Version: 0.1
+Summary: A package that uses recursion and sorting.
+Home-page: https://github.com/cdebruyn/PackageName
+Author: Chad
+Author-email: c.debruyn.edsa@gmail.com
+License: MIT
+Description: # PackageName
+        
+        This package uses recursion and sorting.
+        
+        ## Recursion
+        
+        The recursion part of this package implements functions that return the sum of an array, the nth term in the fibonacci sequence, the factorial of a number and the reverse of a word.
+        
+        ## Sorting
+        
+        The sorting part of this package implements functions that return a sorted array using the bubble sort, merge sort and quick sort methods.
+        
+Platform: UNKNOWN
