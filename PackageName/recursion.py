@@ -40,7 +40,7 @@ def fibonacci(n):
         >>> fibonacci(3)
         2
     '''
-
+    
     if n <= 1:
         return n
     else:
@@ -64,8 +64,10 @@ def factorial(n):
             >>> factorial(3)
             6
     '''
-
-    if n==1:
+    
+    if n==0:
+        return 1
+    elif n==1:
         return n
     else:
         return n*factorial(n-1)
